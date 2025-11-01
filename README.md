@@ -1,2 +1,2 @@
 # Demo
-Here we will learn about the commands used in git
+Here we will learn about the commands used in git.
